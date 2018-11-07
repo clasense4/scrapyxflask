@@ -11,19 +11,19 @@ import os
 
 class CompanyProfilePipeline(object):
     def open_spider(self, spider):
-        self.file_path = '/Users/dropsuite/PycharmProjects/ScrapyXFlask/ETL/'
-        self.file_name = 'company_profile.json'
+        self.path = os.getcwd() + '/../../../ETL/'
+        self.name = 'company_profile.json'
         self.jsons = []
         try:
-            os.remove(self.file_path + self.file_name)
+            os.remove(self.path + self.name)
         except OSError:
             pass
 
     def close_spider(self, spider):
         time.sleep(1)
         json_data = json.dumps(self.jsons, ensure_ascii=False, indent=4)
-        print(json_data)
-        files = open(self.file_path + self.file_name, 'w+')
+
+        files = open(self.path + self.name, 'w+')
         files.write(json_data)
         files.close()
 
@@ -33,25 +33,25 @@ class CompanyProfilePipeline(object):
 
 class CompanyIndexPipeline(object):
     def open_spider(self, spider):
-        self.file_path = '/Users/dropsuite/PycharmProjects/ScrapyXFlask/ETL/'
-        self.file_name = 'company_index.json'
+        self.path = os.getcwd() + '/../../../ETL/'
+        self.name = 'company_index.json'
         self.jsons = []
         try:
-            os.remove(self.file_path + self.file_name)
+            os.remove(self.path + self.name)
         except OSError:
             pass
 
     def close_spider(self, spider):
         time.sleep(1)
         json_data = json.dumps(self.jsons, ensure_ascii=False, indent=4)
-        print(json_data)
-        files = open(self.file_path + self.file_name, 'w+')
+
+        files = open(self.path + self.name, 'w+')
         files.write(json_data)
         files.close()
 
     def process_item(self, item, spider):
         company_index = item.copy()
-        # Drop unused key
+
         dropped_keys = [
             'address', 'phone', 'auditing_company', 'business_summary', 'business_registration',
             'email', 'website', 'description', 'country', 'financial_summary', 'revenue'
