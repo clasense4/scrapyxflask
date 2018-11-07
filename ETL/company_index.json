@@ -1,0 +1,2261 @@
+[
+    {
+        "name": "BEN TRE AQUAPRODUCT IMPORT AND EXPORT JSC",
+        "url": "http://stock.vietnammarkets.com/food-processing/ABT/",
+        "ticker_symbol": "ABT",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 81000000000,
+        "crawled_at": "2018-11-07 23:33:42.518365"
+    },
+    {
+        "name": "CUU LONG FISH JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/ACL/",
+        "ticker_symbol": "ACL",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 11000000000,
+        "crawled_at": "2018-11-07 23:33:42.567040"
+    },
+    {
+        "name": "AN GIANG FISHERIES IMPORT & EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/AGF/",
+        "ticker_symbol": "AGF",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 130000000000,
+        "crawled_at": "2018-11-07 23:33:42.582229"
+    },
+    {
+        "name": "ASIA COMMERCIAL BANK",
+        "url": "http://stock.vietnammarkets.com/banking/ACB/",
+        "ticker_symbol": "ACB",
+        "business": "Banking",
+        "listing_bourse": "HASTC",
+        "revenue": 2630059970000,
+        "crawled_at": "2018-11-07 23:33:42.605579"
+    },
+    {
+        "name": "ALPHANAM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/ALP/",
+        "ticker_symbol": "ALP",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 300000000000,
+        "crawled_at": "2018-11-07 23:33:42.609940"
+    },
+    {
+        "name": "TAN BINH CULTURE CO.",
+        "url": "http://stock.vietnammarkets.com/general-industries/ALT/",
+        "ticker_symbol": "ALT",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 39951259000,
+        "crawled_at": "2018-11-07 23:33:43.098250"
+    },
+    {
+        "name": "BEN HOA SUGAR JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/BHS/",
+        "ticker_symbol": "BHS",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 168477270000,
+        "crawled_at": "2018-11-07 23:33:43.112304"
+    },
+    {
+        "name": "BIM SON PACKING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/BPC/",
+        "ticker_symbol": "BPC",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 38000000000,
+        "crawled_at": "2018-11-07 23:33:43.116143"
+    },
+    {
+        "name": "BIM SON CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/BCC/",
+        "ticker_symbol": "BCC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 900000000000,
+        "crawled_at": "2018-11-07 23:33:43.119882"
+    },
+    {
+        "name": "NAM VIET JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/ANV/",
+        "ticker_symbol": "ANV",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 660000000000,
+        "crawled_at": "2018-11-07 23:33:43.123550"
+    },
+    {
+        "name": "BACH TUYET COTTON JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/personal-equipment/BBT/",
+        "ticker_symbol": "BBT",
+        "business": "Personal equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 190000000000,
+        "crawled_at": "2018-11-07 23:33:43.148904"
+    },
+    {
+        "name": "BIBICA CORPORATION",
+        "url": "http://stock.vietnammarkets.com/food-processing/BBC/",
+        "ticker_symbol": "BBC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 189542740000,
+        "crawled_at": "2018-11-07 23:33:43.159500"
+    },
+    {
+        "name": "BUT SON CEMENT PACKING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/BBS/",
+        "ticker_symbol": "BBS",
+        "business": "General industries",
+        "listing_bourse": "HASTC",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:43.172660"
+    },
+    {
+        "name": "COTEC INVESTMENT AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CIC/",
+        "ticker_symbol": "CIC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 24714510000,
+        "crawled_at": "2018-11-07 23:33:43.468772"
+    },
+    {
+        "name": "BINH DINH MINERALS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mining/BMC/",
+        "ticker_symbol": "BMC",
+        "business": "Mining",
+        "listing_bourse": "HOSE",
+        "revenue": 39342000000,
+        "crawled_at": "2018-11-07 23:33:43.563722"
+    },
+    {
+        "name": "CONSTRUCTION AND INFRASTRUCTURE DEVELOPMENT JOINT STOCK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CID/",
+        "ticker_symbol": "CID",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 5410000000,
+        "crawled_at": "2018-11-07 23:33:43.571994"
+    },
+    {
+        "name": "VIGLACERA BA HIEN JOINT - STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/BHV/",
+        "ticker_symbol": "BHV",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 9000000000,
+        "crawled_at": "2018-11-07 23:33:43.583872"
+    },
+    {
+        "name": "YEN BAI FOREST AGRICULTURAL AND FOODSTUFFS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/CAP/",
+        "ticker_symbol": "CAP",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 0,
+        "crawled_at": "2018-11-07 23:33:43.631685"
+    },
+    {
+        "name": "BINH MINH PLASTICS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/BMP/",
+        "ticker_symbol": "BMP",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 139334000000,
+        "crawled_at": "2018-11-07 23:33:43.666533"
+    },
+    {
+        "name": "BAO MINH INSURANCE CORPORATION",
+        "url": "http://stock.vietnammarkets.com/nonlife-insurance/BMI/",
+        "ticker_symbol": "BMI",
+        "business": "Nonlife insurance",
+        "listing_bourse": "HASTC",
+        "revenue": 755000000000,
+        "crawled_at": "2018-11-07 23:33:43.679985"
+    },
+    {
+        "name": "CHUONG DUONG ASSEMBLY CONSTRUCTION & INVESTMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/CDC/",
+        "ticker_symbol": "CDC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 36000000000,
+        "crawled_at": "2018-11-07 23:33:43.721138"
+    },
+    {
+        "name": "VIETNAM SUPERINTENDENCE AND INSPECTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/supporting-services/VNC/",
+        "ticker_symbol": "VNC",
+        "business": "Supporting services",
+        "listing_bourse": "HASTC",
+        "revenue": 52500000000,
+        "crawled_at": "2018-11-07 23:33:43.834555"
+    },
+    {
+        "name": "VIETNAM DAIRY CORPORATION",
+        "url": "http://stock.vietnammarkets.com/food-processing/VNM/",
+        "ticker_symbol": "VNM",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 1752756700000,
+        "crawled_at": "2018-11-07 23:33:43.908366"
+    },
+    {
+        "name": "MATERIALS TRANSPORT CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/VTV/",
+        "ticker_symbol": "VTV",
+        "business": "Transportation",
+        "listing_bourse": "HASTC",
+        "revenue": 25000000000,
+        "crawled_at": "2018-11-07 23:33:43.995671"
+    },
+    {
+        "name": "VIETNAM ELECTRICITY CONSTRUCTION JOINT-STOCK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/construction-materials/VNE/",
+        "ticker_symbol": "VNE",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 320000000000,
+        "crawled_at": "2018-11-07 23:33:44.006007"
+    },
+    {
+        "name": "MACHINERY ERECTION AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/VMC/",
+        "ticker_symbol": "VMC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 35000000000,
+        "crawled_at": "2018-11-07 23:33:44.027377"
+    },
+    {
+        "name": "VIETNAM- ITALY STEEL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/industrial-metals/VIS/",
+        "ticker_symbol": "VIS",
+        "business": "Industrial metals",
+        "listing_bourse": "HOSE",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:44.060894"
+    },
+    {
+        "name": "VINACONEX XUAN MAI CONCRETE AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/XMC/",
+        "ticker_symbol": "XMC",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:44.134957"
+    },
+    {
+        "name": "YEN SON JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/paper-and-wood-products/YSC/",
+        "ticker_symbol": "YSC",
+        "business": "Paper and wood products",
+        "listing_bourse": "HASTC",
+        "revenue": 7300000000,
+        "crawled_at": "2018-11-07 23:33:44.205702"
+    },
+    {
+        "name": "VIETTRONICS TANBINH JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/entertaining-equipment/VTB/",
+        "ticker_symbol": "VTB",
+        "business": "Entertaining equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 70000000000,
+        "crawled_at": "2018-11-07 23:33:44.279013"
+    },
+    {
+        "name": "VIGLACERA TU SON CERAMIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/VTS/",
+        "ticker_symbol": "VTS",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 11100000000,
+        "crawled_at": "2018-11-07 23:33:44.289372"
+    },
+    {
+        "name": "VITALY JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/VTA/",
+        "ticker_symbol": "VTA",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 40000000000,
+        "crawled_at": "2018-11-07 23:33:44.293502"
+    },
+    {
+        "name": "THANGLONG JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/drinks/VTL/",
+        "ticker_symbol": "VTL",
+        "business": "Drinks",
+        "listing_bourse": "HASTC",
+        "revenue": 18000000000,
+        "crawled_at": "2018-11-07 23:33:44.477955"
+    },
+    {
+        "name": "VTC TELECOMMUNICATIONS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/hardware-and-parts/VTC/",
+        "ticker_symbol": "VTC",
+        "business": "Hardware and parts",
+        "listing_bourse": "HOSE",
+        "revenue": 26048940000,
+        "crawled_at": "2018-11-07 23:33:44.482038"
+    },
+    {
+        "name": "VINASHIN PETROLEUM INVESTMENT AND TRANSPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-production/VSP/",
+        "ticker_symbol": "VSP",
+        "business": "Oil and gas production",
+        "listing_bourse": "HASTC",
+        "revenue": 40000000000,
+        "crawled_at": "2018-11-07 23:33:44.690043"
+    },
+    {
+        "name": "VIETNAM CONTAINER SHIPPING COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/VSC/",
+        "ticker_symbol": "VSC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 80373340000,
+        "crawled_at": "2018-11-07 23:33:44.695732"
+    },
+    {
+        "name": "VINH SON â€“ SONG HINH HYDROPOWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/VSH/",
+        "ticker_symbol": "VSH",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 1250000000000,
+        "crawled_at": "2018-11-07 23:33:44.736193"
+    },
+    {
+        "name": "VEGETABLE OIL PACKING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/VPK/",
+        "ticker_symbol": "VPK",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 76000000000,
+        "crawled_at": "2018-11-07 23:33:44.866252"
+    },
+    {
+        "name": "VIET NAM PETROLIUM TRANSPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/VIP/",
+        "ticker_symbol": "VIP",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 351000000000,
+        "crawled_at": "2018-11-07 23:33:44.885835"
+    },
+    {
+        "name": "VEGETABLE PORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/VGP/",
+        "ticker_symbol": "VGP",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 38850000000,
+        "crawled_at": "2018-11-07 23:33:44.966570"
+    },
+    {
+        "name": "VINH HOAN JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/VHC/",
+        "ticker_symbol": "VHC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 300000000000,
+        "crawled_at": "2018-11-07 23:33:44.980660"
+    },
+    {
+        "name": "VINCOM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/real-estate/VIC/",
+        "ticker_symbol": "VIC",
+        "business": "Real estate",
+        "listing_bourse": "HOSE",
+        "revenue": 800000000000,
+        "crawled_at": "2018-11-07 23:33:44.989722"
+    },
+    {
+        "name": "VIETNAM  NATIONAL REINSURANCE CORPORATION",
+        "url": "http://stock.vietnammarkets.com/nonlife-insurance/VNR/",
+        "ticker_symbol": "VNR",
+        "business": "Nonlife insurance",
+        "listing_bourse": "HASTC",
+        "revenue": 343000000000,
+        "crawled_at": "2018-11-07 23:33:44.996324"
+    },
+    {
+        "name": "VIEN DONG PAPER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/paper-and-wood-products/VID/",
+        "ticker_symbol": "VID",
+        "business": "Paper and wood products",
+        "listing_bourse": "HOSE",
+        "revenue": 84557000000,
+        "crawled_at": "2018-11-07 23:33:45.064450"
+    },
+    {
+        "name": "VIETFUND MANAGEMENT 1",
+        "url": "http://stock.vietnammarkets.com/close-investment-fund/VFMVF1/",
+        "ticker_symbol": "VFMVF1",
+        "business": "Close investment fund",
+        "listing_bourse": "HOSE",
+        "revenue": 500000000000,
+        "crawled_at": "2018-11-07 23:33:45.306443"
+    },
+    {
+        "name": "TRANSPORT AND CHARTERING CORPORATION",
+        "url": "http://stock.vietnammarkets.com/transportation/VFR/",
+        "ticker_symbol": "VFR",
+        "business": "Transportation",
+        "listing_bourse": "HASTC",
+        "revenue": 150000000000,
+        "crawled_at": "2018-11-07 23:33:45.312694"
+    },
+    {
+        "name": "VINAFCO JOINT STOCK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/transportation/VFC/",
+        "ticker_symbol": "VFC",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 67756270000,
+        "crawled_at": "2018-11-07 23:33:45.316448"
+    },
+    {
+        "name": "VIETNAM CONSTRUCTION JOINT STOCK COMPANY NO. 3",
+        "url": "http://stock.vietnammarkets.com/others/VC3/",
+        "ticker_symbol": "VC3",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 80000000000,
+        "crawled_at": "2018-11-07 23:33:45.320476"
+    },
+    {
+        "name": "LAM DONG FOODSTUFF JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/VDL/",
+        "ticker_symbol": "VDL",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 12000000000,
+        "crawled_at": "2018-11-07 23:33:45.471935"
+    },
+    {
+        "name": "GYPSUM AND CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/TXM/",
+        "ticker_symbol": "TXM",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 35000000000,
+        "crawled_at": "2018-11-07 23:33:45.541641"
+    },
+    {
+        "name": "ADVANCED COMPOUND STONE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/VCS/",
+        "ticker_symbol": "VCS",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:45.573131"
+    },
+    {
+        "name": "VIET NAM CONSTRUCTION JOINT STOCK COMPANY NO. 2",
+        "url": "http://stock.vietnammarkets.com/construction-materials/VC2/",
+        "ticker_symbol": "VC2",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 32050000000,
+        "crawled_at": "2018-11-07 23:33:45.577379"
+    },
+    {
+        "name": "VIETTRONICS BINH HOA JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/VBH/",
+        "ticker_symbol": "VBH",
+        "business": "Electric and electronics equipment",
+        "listing_bourse": "HASTC",
+        "revenue": 29000000000,
+        "crawled_at": "2018-11-07 23:33:45.649675"
+    },
+    {
+        "name": "TAN TIEN PLASTIC PACKAGING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/TTP/",
+        "ticker_symbol": "TTP",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 106550000000,
+        "crawled_at": "2018-11-07 23:33:45.758857"
+    },
+    {
+        "name": "VIEN LIEN JOINT - STOCK CO.",
+        "url": "http://stock.vietnammarkets.com/hardware-and-parts/UNI/",
+        "ticker_symbol": "UNI",
+        "business": "Hardware and parts",
+        "listing_bourse": "HOSE",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:45.763447"
+    },
+    {
+        "name": "TAYA VIETNAM ELECTRIC WIRE AND CABLE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/TYA/",
+        "ticker_symbol": "TYA",
+        "business": "Electric and electronics equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 48312280000,
+        "crawled_at": "2018-11-07 23:33:45.819499"
+    },
+    {
+        "name": "IDICO URBAN AND HOUSE DEVELOPMENT INVESTMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/UIC/",
+        "ticker_symbol": "UIC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 80000000000,
+        "crawled_at": "2018-11-07 23:33:45.835303"
+    },
+    {
+        "name": "THANH THANH JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/TTC/",
+        "ticker_symbol": "TTC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 40000000000,
+        "crawled_at": "2018-11-07 23:33:46.101835"
+    },
+    {
+        "name": "TECHNO â€“ AGRICULTURAL SUPPLYING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/TSC/",
+        "ticker_symbol": "TSC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 83129150000,
+        "crawled_at": "2018-11-07 23:33:46.115264"
+    },
+    {
+        "name": "TELECOMMUNICATION TECHNICAL SERVICE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/TST/",
+        "ticker_symbol": "TST",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 48000000000,
+        "crawled_at": "2018-11-07 23:33:46.118879"
+    },
+    {
+        "name": "HANOI TEXTBOOKS PRINTING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/communication/TPH/",
+        "ticker_symbol": "TPH",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 18000000000,
+        "crawled_at": "2018-11-07 23:33:46.122909"
+    },
+    {
+        "name": "TAN DAI HUNG PLASTIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/TPC/",
+        "ticker_symbol": "TPC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 104000000000,
+        "crawled_at": "2018-11-07 23:33:46.130497"
+    },
+    {
+        "name": "SAIGON FOOD & BEVERAGE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/drinks/TRI/",
+        "ticker_symbol": "TRI",
+        "business": "Drinks",
+        "listing_bourse": "HOSE",
+        "revenue": 75483600000,
+        "crawled_at": "2018-11-07 23:33:46.183530"
+    },
+    {
+        "name": "SEAFOOD IMPORT-EXPORT JS CO. NO. 4",
+        "url": "http://stock.vietnammarkets.com/food-processing/TS4/",
+        "ticker_symbol": "TS4",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:46.201789"
+    },
+    {
+        "name": "TAY NINH RUBBER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/TRC/",
+        "ticker_symbol": "TRC",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 300000000000,
+        "crawled_at": "2018-11-07 23:33:46.302187"
+    },
+    {
+        "name": "THONG NHAT RUBBER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/TNC/",
+        "ticker_symbol": "TNC",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 192500000000,
+        "crawled_at": "2018-11-07 23:33:46.353726"
+    },
+    {
+        "name": "THU DUC TRADING AND IMPORT EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/TMC/",
+        "ticker_symbol": "TMC",
+        "business": "Distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 35545070000,
+        "crawled_at": "2018-11-07 23:33:46.372320"
+    },
+    {
+        "name": "TNG INVESTMENT AND TRADING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/TNG/",
+        "ticker_symbol": "TNG",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 80000000000,
+        "crawled_at": "2018-11-07 23:33:46.567445"
+    },
+    {
+        "name": "TRANSPORTATION AND TRADING SERVICES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/TJC/",
+        "ticker_symbol": "TJC",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:46.609076"
+    },
+    {
+        "name": "TRANSFORWARDING & WAREHOUSING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/TMS/",
+        "ticker_symbol": "TMS",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 63480000000,
+        "crawled_at": "2018-11-07 23:33:46.702462"
+    },
+    {
+        "name": "THIEN NAM IMPORT AND EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/TNA/",
+        "ticker_symbol": "TNA",
+        "business": "Distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 33000000000,
+        "crawled_at": "2018-11-07 23:33:46.711427"
+    },
+    {
+        "name": "VIGLACERA THANGLONG CERAMIC TILES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/TLT/",
+        "ticker_symbol": "TLT",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 22500000000,
+        "crawled_at": "2018-11-07 23:33:46.735544"
+    },
+    {
+        "name": "THANG LONG TELECOM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/TLC/",
+        "ticker_symbol": "TLC",
+        "business": "Electric and electronics equipment",
+        "listing_bourse": "HASTC",
+        "revenue": 99800000000,
+        "crawled_at": "2018-11-07 23:33:46.759627"
+    },
+    {
+        "name": "TUNG KUANG INDUSTRIAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/industrial-metals/TKU/",
+        "ticker_symbol": "TKU",
+        "business": "Industrial metals",
+        "listing_bourse": "HASTC",
+        "revenue": 32818540000,
+        "crawled_at": "2018-11-07 23:33:46.881436"
+    },
+    {
+        "name": "THU DUC HOUSING DEVELOPMENT CORPORATION",
+        "url": "http://stock.vietnammarkets.com/real-estate/TDH/",
+        "ticker_symbol": "TDH",
+        "business": "Real estate",
+        "listing_bourse": "HOSE",
+        "revenue": 170000000000,
+        "crawled_at": "2018-11-07 23:33:46.924057"
+    },
+    {
+        "name": "THAC BA HYDROPOWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/TBC/",
+        "ticker_symbol": "TBC",
+        "business": "Electricity",
+        "listing_bourse": "HASTC",
+        "revenue": 635000000000,
+        "crawled_at": "2018-11-07 23:33:46.928198"
+    },
+    {
+        "name": "SONG DA INDUSTRY TRADE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/STP/",
+        "ticker_symbol": "STP",
+        "business": "General industries",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:47.009822"
+    },
+    {
+        "name": "TAY NINH CABLE CAR TOUR CO.",
+        "url": "http://stock.vietnammarkets.com/others/TCT/",
+        "ticker_symbol": "TCT",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 15985000000,
+        "crawled_at": "2018-11-07 23:33:47.111456"
+    },
+    {
+        "name": "TUONG AN VEGETABLE OIL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/TAC/",
+        "ticker_symbol": "TAC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 189802000000,
+        "crawled_at": "2018-11-07 23:33:47.127705"
+    },
+    {
+        "name": "TAICERA ENTERPRISE COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/TCR/",
+        "ticker_symbol": "TCR",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 49690000000,
+        "crawled_at": "2018-11-07 23:33:47.153879"
+    },
+    {
+        "name": "SAIGON GENERAL SERVICE CORPORATION",
+        "url": "http://stock.vietnammarkets.com/distribution/SVC/",
+        "ticker_symbol": "SVC",
+        "business": "Distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 148734100000,
+        "crawled_at": "2018-11-07 23:33:47.182861"
+    },
+    {
+        "name": "SONG DA NO. 6.06 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SSS/",
+        "ticker_symbol": "SSS",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 25000000000,
+        "crawled_at": "2018-11-07 23:33:47.269045"
+    },
+    {
+        "name": "SAIGON SECURITIES INC.",
+        "url": "http://stock.vietnammarkets.com/financial-services/SSI/",
+        "ticker_symbol": "SSI",
+        "business": "Financial services",
+        "listing_bourse": "HOSE",
+        "revenue": 500000000000,
+        "crawled_at": "2018-11-07 23:33:47.381752"
+    },
+    {
+        "name": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK",
+        "url": "http://stock.vietnammarkets.com/banking/STB/",
+        "ticker_symbol": "STB",
+        "business": "Banking",
+        "listing_bourse": "HOSE",
+        "revenue": 2089412810000,
+        "crawled_at": "2018-11-07 23:33:47.389517"
+    },
+    {
+        "name": "SIEU THANH JOINT STOCK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/others/ST8/",
+        "ticker_symbol": "ST8",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 82000000000,
+        "crawled_at": "2018-11-07 23:33:47.405213"
+    },
+    {
+        "name": "BOOK AND EDUCATIONAL EQUIPMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/STC/",
+        "ticker_symbol": "STC",
+        "business": "Distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 28800000000,
+        "crawled_at": "2018-11-07 23:33:47.442609"
+    },
+    {
+        "name": "SOUTHERN SEED JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/SSC/",
+        "ticker_symbol": "SSC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:47.595368"
+    },
+    {
+        "name": "SONG DA N0. 10.1 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SNG/",
+        "ticker_symbol": "SNG",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 19000000000,
+        "crawled_at": "2018-11-07 23:33:47.622703"
+    },
+    {
+        "name": "SONG DA N011 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SJE/",
+        "ticker_symbol": "SJE",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 50000000000,
+        "crawled_at": "2018-11-07 23:33:47.629406"
+    },
+    {
+        "name": "SMC TRADING - INVESTMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/industrial-metals/SMC/",
+        "ticker_symbol": "SMC",
+        "business": "Industrial metals",
+        "listing_bourse": "HOSE",
+        "revenue": 74999370000,
+        "crawled_at": "2018-11-07 23:33:47.637865"
+    },
+    {
+        "name": "SEAFOOD JOINT STOCK COMPANY NO 1",
+        "url": "http://stock.vietnammarkets.com/food-processing/SJ1/",
+        "ticker_symbol": "SJ1",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:47.704601"
+    },
+    {
+        "name": "SONG DA URBAN & INDUSTRIAL ZONE INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/real-estate/SJS/",
+        "ticker_symbol": "SJS",
+        "business": "Real estate",
+        "listing_bourse": "HOSE",
+        "revenue": 200000000000,
+        "crawled_at": "2018-11-07 23:33:47.752253"
+    },
+    {
+        "name": "SONG DA INVESTMENT - DEVELOPMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/real-estate/SIC/",
+        "ticker_symbol": "SIC",
+        "business": "Real estate",
+        "listing_bourse": "HASTC",
+        "revenue": 22000000000,
+        "crawled_at": "2018-11-07 23:33:47.853718"
+    },
+    {
+        "name": "SAIGON HOTEL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/tourism-and-entertainment/SGH/",
+        "ticker_symbol": "SGH",
+        "business": "Tourism and entertainment",
+        "listing_bourse": "HOSE",
+        "revenue": 17663000000,
+        "crawled_at": "2018-11-07 23:33:47.871314"
+    },
+    {
+        "name": "EDUCATIONAL BOOK JOINT STOCK COMPANY IN HO CHI MINH CITY",
+        "url": "http://stock.vietnammarkets.com/communication/SGD/",
+        "ticker_symbol": "SGD",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:47.883682"
+    },
+    {
+        "name": "SAGIANG IMPORT AND EXPORT CORPORATION",
+        "url": "http://stock.vietnammarkets.com/food-processing/SGC/",
+        "ticker_symbol": "SGC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 40887000000,
+        "crawled_at": "2018-11-07 23:33:47.955769"
+    },
+    {
+        "name": "SONG DA 1.01 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/SJC/",
+        "ticker_symbol": "SJC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 21100000000,
+        "crawled_at": "2018-11-07 23:33:47.971599"
+    },
+    {
+        "name": "CAN DON HYDROELECTRIC JOINT STOCKS CO.",
+        "url": "http://stock.vietnammarkets.com/electricity/SJD/",
+        "ticker_symbol": "SJD",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 200000000000,
+        "crawled_at": "2018-11-07 23:33:47.976069"
+    },
+    {
+        "name": "SAI GON MARITIME JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/SHC/",
+        "ticker_symbol": "SHC",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:48.053316"
+    },
+    {
+        "name": "SEA AND AIR FREIGHT INTERNATIONAL",
+        "url": "http://stock.vietnammarkets.com/transportation/SFI/",
+        "ticker_symbol": "SFI",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 11385008354,
+        "crawled_at": "2018-11-07 23:33:48.103147"
+    },
+    {
+        "name": "SONG DA YALY CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SDY/",
+        "ticker_symbol": "SDY",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:48.122279"
+    },
+    {
+        "name": "SAIGON FISHING NET JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/supporting-services/SFN/",
+        "ticker_symbol": "SFN",
+        "business": "Supporting services",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:48.179896"
+    },
+    {
+        "name": "SAIGON FUEL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/SFC/",
+        "ticker_symbol": "SFC",
+        "business": "Distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 17000000000,
+        "crawled_at": "2018-11-07 23:33:48.406826"
+    },
+    {
+        "name": "SONG DA NO. 9 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SD9/",
+        "ticker_symbol": "SD9",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 150000000000,
+        "crawled_at": "2018-11-07 23:33:48.415062"
+    },
+    {
+        "name": "SONG DA NO. 25 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/SDJ/",
+        "ticker_symbol": "SDJ",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 18384000000,
+        "crawled_at": "2018-11-07 23:33:48.424247"
+    },
+    {
+        "name": "SONGDA 7 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SD7/",
+        "ticker_symbol": "SD7",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:48.444525"
+    },
+    {
+        "name": "SONG DA N0 10. JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SDT/",
+        "ticker_symbol": "SDT",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 60000000000,
+        "crawled_at": "2018-11-07 23:33:48.497501"
+    },
+    {
+        "name": "DONG NAI PAINT CORPORATION",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SDN/",
+        "ticker_symbol": "SDN",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 11400000000,
+        "crawled_at": "2018-11-07 23:33:48.522629"
+    },
+    {
+        "name": "SONG DA CONSULTING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SDC/",
+        "ticker_symbol": "SDC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 10000000000,
+        "crawled_at": "2018-11-07 23:33:48.607707"
+    },
+    {
+        "name": "SONG DA INTERNATIONAL MANPOWER SUPPLY AND TRADING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/supporting-services/SDA/",
+        "ticker_symbol": "SDA",
+        "business": "Supporting services",
+        "listing_bourse": "HASTC",
+        "revenue": 70000000000,
+        "crawled_at": "2018-11-07 23:33:48.644716"
+    },
+    {
+        "name": "SAI SON CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SCJ/",
+        "ticker_symbol": "SCJ",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 27742000000,
+        "crawled_at": "2018-11-07 23:33:48.750989"
+    },
+    {
+        "name": "SONG DA N0. 6 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SD6/",
+        "ticker_symbol": "SD6",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 44777000000,
+        "crawled_at": "2018-11-07 23:33:48.868350"
+    },
+    {
+        "name": "SONG DA 3 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SD3/",
+        "ticker_symbol": "SD3",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:48.880473"
+    },
+    {
+        "name": "SONG DA NO. 5 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SD5/",
+        "ticker_symbol": "SD5",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 60940000000,
+        "crawled_at": "2018-11-07 23:33:48.977990"
+    },
+    {
+        "name": "CHUONG DUONG BEVERAGES CO.",
+        "url": "http://stock.vietnammarkets.com/drinks/SCD/",
+        "ticker_symbol": "SCD",
+        "business": "Drinks",
+        "listing_bourse": "HOSE",
+        "revenue": 85000000000,
+        "crawled_at": "2018-11-07 23:33:48.981811"
+    },
+    {
+        "name": "SONG DA NO. 2 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/SD2/",
+        "ticker_symbol": "SD2",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 35000000000,
+        "crawled_at": "2018-11-07 23:33:49.010096"
+    },
+    {
+        "name": "SONGDA CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/SCC/",
+        "ticker_symbol": "SCC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 19800000000,
+        "crawled_at": "2018-11-07 23:33:49.037390"
+    },
+    {
+        "name": "SAIGON CABLES AND TELECOMMUNICATIONS MATERIAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/SAM/",
+        "ticker_symbol": "SAM",
+        "business": "Electric and electronics equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 374394280000,
+        "crawled_at": "2018-11-07 23:33:49.124013"
+    },
+    {
+        "name": "SAFOCO FOODSTUFF JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/SAF/",
+        "ticker_symbol": "SAF",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 27060000000,
+        "crawled_at": "2018-11-07 23:33:49.133705"
+    },
+    {
+        "name": "SAVIMEX ECONOMIC COOPERATION AND IMPORT-EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/household-equipment/SAV/",
+        "ticker_symbol": "SAV",
+        "business": "Household equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 65000000000,
+        "crawled_at": "2018-11-07 23:33:49.206818"
+    },
+    {
+        "name": "TEXTBOOK PRINTING JOINT STOCK COMPANY IN HO CHI MINH CITY",
+        "url": "http://stock.vietnammarkets.com/communication/SAP/",
+        "ticker_symbol": "SAP",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 11700000000,
+        "crawled_at": "2018-11-07 23:33:49.219710"
+    },
+    {
+        "name": "SONG DA 909 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/S99/",
+        "ticker_symbol": "S99",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:49.233769"
+    },
+    {
+        "name": "SONG DA 9.01 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/S91/",
+        "ticker_symbol": "S91",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:49.238382"
+    },
+    {
+        "name": "RY NINH II ELECTRIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/RHC/",
+        "ticker_symbol": "RHC",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 32000000000,
+        "crawled_at": "2018-11-07 23:33:49.404438"
+    },
+    {
+        "name": "CHOLON REAL ESTATE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/real-estate/RCL/",
+        "ticker_symbol": "RCL",
+        "business": "Real estate",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:49.466575"
+    },
+    {
+        "name": "PETROVIETNAM TRANSPORTATION CORPORATION",
+        "url": "http://stock.vietnammarkets.com/others/PVT/",
+        "ticker_symbol": "PVT",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 720000000000,
+        "crawled_at": "2018-11-07 23:33:49.485348"
+    },
+    {
+        "name": "RANG DONG LIGHT SOURCES & VACUUM FLASK JSC",
+        "url": "http://stock.vietnammarkets.com/household-equipment/RAL/",
+        "ticker_symbol": "RAL",
+        "business": "Household equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 79150000000,
+        "crawled_at": "2018-11-07 23:33:49.506028"
+    },
+    {
+        "name": "SONG DA 505 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/S55/",
+        "ticker_symbol": "S55",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 7000000000,
+        "crawled_at": "2018-11-07 23:33:49.509900"
+    },
+    {
+        "name": "SONG DA 6.04 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/S64/",
+        "ticker_symbol": "S64",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 7000000000,
+        "crawled_at": "2018-11-07 23:33:49.533157"
+    },
+    {
+        "name": "ROYAL INTERNATIONAL CORPORATION",
+        "url": "http://stock.vietnammarkets.com/tourism-and-entertainment/RIC/",
+        "ticker_symbol": "RIC",
+        "business": "Tourism and entertainment",
+        "listing_bourse": "HOSE",
+        "revenue": 353724890000,
+        "crawled_at": "2018-11-07 23:33:49.814900"
+    },
+    {
+        "name": "PETROVIETNAM INSURANCE JOINT STOCK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/nonlife-insurance/PVI/",
+        "ticker_symbol": "PVI",
+        "business": "Nonlife insurance",
+        "listing_bourse": "HASTC",
+        "revenue": 847986280000,
+        "crawled_at": "2018-11-07 23:33:49.837018"
+    },
+    {
+        "name": "HAIPHONG PETROLIMEX TRANSPORTATION AND SERVICES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/PTS/",
+        "ticker_symbol": "PTS",
+        "business": "Transportation",
+        "listing_bourse": "HASTC",
+        "revenue": 17400000000,
+        "crawled_at": "2018-11-07 23:33:49.841111"
+    },
+    {
+        "name": "PETROVIETNAM DRILLING & WELL SERVICES JS CO",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-equipment-services-and-distribution/PVD/",
+        "ticker_symbol": "PVD",
+        "business": "Oil and gas equipment, services and distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 680000000000,
+        "crawled_at": "2018-11-07 23:33:49.845237"
+    },
+    {
+        "name": "REFRIGERATION & ELECTRICAL ENGINEERING CORP.",
+        "url": "http://stock.vietnammarkets.com/construction-materials/REE/",
+        "ticker_symbol": "REE",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 339056530000,
+        "crawled_at": "2018-11-07 23:33:49.849231"
+    },
+    {
+        "name": "PETROLEUM TECHNICAL SERVICES CORPORATION",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-equipment-services-and-distribution/PVS/",
+        "ticker_symbol": "PVS",
+        "business": "Oil and gas equipment, services and distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 1000000000000,
+        "crawled_at": "2018-11-07 23:33:50.008087"
+    },
+    {
+        "name": "PETROVIETNAM DRILLING MUD JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/PVC/",
+        "ticker_symbol": "PVC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 120000000000,
+        "crawled_at": "2018-11-07 23:33:50.058270"
+    },
+    {
+        "name": "PETROVIETNAM INVESTMENT CONSULTANCY AND ENGINEERING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/PVE/",
+        "ticker_symbol": "PVE",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 34519960000,
+        "crawled_at": "2018-11-07 23:33:50.072297"
+    },
+    {
+        "name": "PHA LAI THERMAL POWER JOINT-STOCK CO.",
+        "url": "http://stock.vietnammarkets.com/electricity/PPC/",
+        "ticker_symbol": "PPC",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 3107000000000,
+        "crawled_at": "2018-11-07 23:33:50.076918"
+    },
+    {
+        "name": "PRUDENTIAL BALANCED FUND",
+        "url": "http://stock.vietnammarkets.com/close-investment-fund/PRUBF1/",
+        "ticker_symbol": "PRUBF1",
+        "business": "Close investment fund",
+        "listing_bourse": "HOSE",
+        "revenue": 500000000000,
+        "crawled_at": "2018-11-07 23:33:50.086020"
+    },
+    {
+        "name": "PETROLIMEX PETROCHEMICAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/PLC/",
+        "ticker_symbol": "PLC",
+        "business": "Distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 160561000000,
+        "crawled_at": "2018-11-07 23:33:50.413494"
+    },
+    {
+        "name": "POST AND TELECOMMUNICATION INVESTMENT AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/PTC/",
+        "ticker_symbol": "PTC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:50.420951"
+    },
+    {
+        "name": "PETROLEUM MECHANICAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-equipment-services-and-distribution/PMS/",
+        "ticker_symbol": "PMS",
+        "business": "Oil and gas equipment, services and distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 32000000000,
+        "crawled_at": "2018-11-07 23:33:50.440991"
+    },
+    {
+        "name": "PHU PHONG CORPORATION",
+        "url": "http://stock.vietnammarkets.com/construction-materials/PPG/",
+        "ticker_symbol": "PPG",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 40000000000,
+        "crawled_at": "2018-11-07 23:33:50.445126"
+    },
+    {
+        "name": "PETROLIMEX SAIGON TRANSPORTATION AND SERVICE JOINT STOCK COMPANY.",
+        "url": "http://stock.vietnammarkets.com/distribution/PSC/",
+        "ticker_symbol": "PSC",
+        "business": "Distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 12900000000,
+        "crawled_at": "2018-11-07 23:33:50.450821"
+    },
+    {
+        "name": "POST AND TELECOMMUNICATION EQUIPMENT FACTORY",
+        "url": "http://stock.vietnammarkets.com/hardware-and-parts/POT/",
+        "ticker_symbol": "POT",
+        "business": "Hardware and parts",
+        "listing_bourse": "HASTC",
+        "revenue": 179916300000,
+        "crawled_at": "2018-11-07 23:33:50.472751"
+    },
+    {
+        "name": "PHUONG NAM CULTURAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/distribution/PNC/",
+        "ticker_symbol": "PNC",
+        "business": "Distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:50.593016"
+    },
+    {
+        "name": "PETROLIMEX JOINT STOCK TANKER CO.",
+        "url": "http://stock.vietnammarkets.com/transportation/PJT/",
+        "ticker_symbol": "PJT",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 35000000000,
+        "crawled_at": "2018-11-07 23:33:50.640774"
+    },
+    {
+        "name": "PETROLIMEX HANOI TRANSPORTATION AND TRADING JOINT STOCK COMPANY.",
+        "url": "http://stock.vietnammarkets.com/distribution/PJC/",
+        "ticker_symbol": "PJC",
+        "business": "Distribution",
+        "listing_bourse": "HASTC",
+        "revenue": 15631500000,
+        "crawled_at": "2018-11-07 23:33:50.697191"
+    },
+    {
+        "name": "PETROVIETNAM SOUTHERN GAS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/PGS/",
+        "ticker_symbol": "PGS",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 150000000000,
+        "crawled_at": "2018-11-07 23:33:50.705109"
+    },
+    {
+        "name": "GAS PETROLIMEX JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-equipment-services-and-distribution/PGC/",
+        "ticker_symbol": "PGC",
+        "business": "Oil and gas equipment, services and distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 200000000000,
+        "crawled_at": "2018-11-07 23:33:50.708812"
+    },
+    {
+        "name": "PAN PACIFIC CORPORATION",
+        "url": "http://stock.vietnammarkets.com/supporting-services/PAN/",
+        "ticker_symbol": "PAN",
+        "business": "Supporting services",
+        "listing_bourse": "HASTC",
+        "revenue": 70000000000,
+        "crawled_at": "2018-11-07 23:33:50.920793"
+    },
+    {
+        "name": "DRY CELL AND STORAGE BATTERY JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/PAC/",
+        "ticker_symbol": "PAC",
+        "business": "Electric and electronics equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 102630000000,
+        "crawled_at": "2018-11-07 23:33:50.962347"
+    },
+    {
+        "name": "NATIONAL SEED JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/NSC/",
+        "ticker_symbol": "NSC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:50.987952"
+    },
+    {
+        "name": "NGAN SON JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/tobacco/NST/",
+        "ticker_symbol": "NST",
+        "business": "Tobacco",
+        "listing_bourse": "HASTC",
+        "revenue": 30331330000,
+        "crawled_at": "2018-11-07 23:33:51.009273"
+    },
+    {
+        "name": "PETROVIETNAM TOURISM AND SERVICES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-equipment-services-and-distribution/PET/",
+        "ticker_symbol": "PET",
+        "business": "Oil and gas equipment, services and distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 255300000000,
+        "crawled_at": "2018-11-07 23:33:51.040882"
+    },
+    {
+        "name": "TIEN PHONG PLASTIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/NTP/",
+        "ticker_symbol": "NTP",
+        "business": "Chemicals",
+        "listing_bourse": "HASTC",
+        "revenue": 216689980000,
+        "crawled_at": "2018-11-07 23:33:51.147365"
+    },
+    {
+        "name": "TU LIEN URBAN DEVELOPMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/NTL/",
+        "ticker_symbol": "NTL",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 82000000000,
+        "crawled_at": "2018-11-07 23:33:51.186391"
+    },
+    {
+        "name": "NAM VIET JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/NAV/",
+        "ticker_symbol": "NAV",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 25000000000,
+        "crawled_at": "2018-11-07 23:33:51.369078"
+    },
+    {
+        "name": "PHU THINH - NHA BE GARMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/personal-equipment/NPS/",
+        "ticker_symbol": "NPS",
+        "business": "Personal equipment",
+        "listing_bourse": "HASTC",
+        "revenue": 10593000000,
+        "crawled_at": "2018-11-07 23:33:51.395291"
+    },
+    {
+        "name": "NALOI HYDROPOWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/NLC/",
+        "ticker_symbol": "NLC",
+        "business": "Electricity",
+        "listing_bourse": "HASTC",
+        "revenue": 50000000000,
+        "crawled_at": "2018-11-07 23:33:51.407314"
+    },
+    {
+        "name": "NORTH KINH DO FOOD JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/NKD/",
+        "ticker_symbol": "NKD",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 70000000000,
+        "crawled_at": "2018-11-07 23:33:51.467951"
+    },
+    {
+        "name": "MINH PHU SEAFOOD JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/MPC/",
+        "ticker_symbol": "MPC",
+        "business": "Food processing",
+        "listing_bourse": "HASTC",
+        "revenue": 600000000000,
+        "crawled_at": "2018-11-07 23:33:51.471720"
+    },
+    {
+        "name": "QUANG NAM MINERAL INDUSTRY JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/MIC/",
+        "ticker_symbol": "MIC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 12950000000,
+        "crawled_at": "2018-11-07 23:33:51.523660"
+    },
+    {
+        "name": "NHI HIEP BRICK-TILE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/NHC/",
+        "ticker_symbol": "NHC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 13360610000,
+        "crawled_at": "2018-11-07 23:33:51.536895"
+    },
+    {
+        "name": "VINACOMIN â€“ NUI BEO COAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mining/NBC/",
+        "ticker_symbol": "NBC",
+        "business": "Mining",
+        "listing_bourse": "HASTC",
+        "revenue": 60000000000,
+        "crawled_at": "2018-11-07 23:33:51.578819"
+    },
+    {
+        "name": "SONG DA MECHANICAL ASSEMBLING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/MEC/",
+        "ticker_symbol": "MEC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 40000000000,
+        "crawled_at": "2018-11-07 23:33:51.583600"
+    },
+    {
+        "name": "CAVICO VIETNAM MINING AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mining/MCV/",
+        "ticker_symbol": "MCV",
+        "business": "Mining",
+        "listing_bourse": "HOSE",
+        "revenue": 31000000000,
+        "crawled_at": "2018-11-07 23:33:51.801894"
+    },
+    {
+        "name": "HANOI MARITIME HOLDING CO.",
+        "url": "http://stock.vietnammarkets.com/transportation/MHC/",
+        "ticker_symbol": "MHC",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 67056400000,
+        "crawled_at": "2018-11-07 23:33:51.806022"
+    },
+    {
+        "name": "MY CHAU PRINTING AND PACKAGING HOLDINGS CO.",
+        "url": "http://stock.vietnammarkets.com/general-industries/MCP/",
+        "ticker_symbol": "MCP",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:51.810947"
+    },
+    {
+        "name": "LOW CURRENT - TELECOM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/LTC/",
+        "ticker_symbol": "LTC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15000000000,
+        "crawled_at": "2018-11-07 23:33:51.842756"
+    },
+    {
+        "name": "MIRAE FIBER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/KMF/",
+        "ticker_symbol": "KMF",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 103830540000,
+        "crawled_at": "2018-11-07 23:33:52.164383"
+    },
+    {
+        "name": "INVESTMENT AND CONSTRUCTION  JOINT STOCK COMPANY NO1",
+        "url": "http://stock.vietnammarkets.com/construction-materials/MCO/",
+        "ticker_symbol": "MCO",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 23999960000,
+        "crawled_at": "2018-11-07 23:33:52.170066"
+    },
+    {
+        "name": "LAM DONG BUILDING MATERIALS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/LBM/",
+        "ticker_symbol": "LBM",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 16391600000,
+        "crawled_at": "2018-11-07 23:33:52.186844"
+    },
+    {
+        "name": "LU GIA MECHANICAL ELECTRIC JOINT STOCK COMPANY (LUGIACO)",
+        "url": "http://stock.vietnammarkets.com/electricity/LGC/",
+        "ticker_symbol": "LGC",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 10000000000,
+        "crawled_at": "2018-11-07 23:33:52.190550"
+    },
+    {
+        "name": "LONG AN FOOD PROCESSING & EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/LAF/",
+        "ticker_symbol": "LAF",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 38196800000,
+        "crawled_at": "2018-11-07 23:33:52.198497"
+    },
+    {
+        "name": "LILAMA 10 JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/L10/",
+        "ticker_symbol": "L10",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 90000000000,
+        "crawled_at": "2018-11-07 23:33:52.203085"
+    },
+    {
+        "name": "KHANH HOA POWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/KHP/",
+        "ticker_symbol": "KHP",
+        "business": "Electricity",
+        "listing_bourse": "HOSE",
+        "revenue": 163221000000,
+        "crawled_at": "2018-11-07 23:33:52.420314"
+    },
+    {
+        "name": "IMEXPHARM PHARMACEUTICAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/pharmacy-and-biotech/IMP/",
+        "ticker_symbol": "IMP",
+        "business": "Pharmacy and biotech",
+        "listing_bourse": "HOSE",
+        "revenue": 92387500000,
+        "crawled_at": "2018-11-07 23:33:52.435371"
+    },
+    {
+        "name": "KHANH HOI IMPORT-EXPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/real-estate/KHA/",
+        "ticker_symbol": "KHA",
+        "business": "Real estate",
+        "listing_bourse": "HOSE",
+        "revenue": 30350000000,
+        "crawled_at": "2018-11-07 23:33:52.445573"
+    },
+    {
+        "name": "TAN TAO INDUSTRIAL PARK CORPORATION",
+        "url": "http://stock.vietnammarkets.com/real-estate/ITA/",
+        "ticker_symbol": "ITA",
+        "business": "Real estate",
+        "listing_bourse": "HOSE",
+        "revenue": 600000000000,
+        "crawled_at": "2018-11-07 23:33:52.450489"
+    },
+    {
+        "name": "INTERNATIONAL LABOR AND SERVICES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/paper-and-wood-products/ILC/",
+        "ticker_symbol": "ILC",
+        "business": "Paper and wood products",
+        "listing_bourse": "HASTC",
+        "revenue": 11390820000,
+        "crawled_at": "2018-11-07 23:33:52.454559"
+    },
+    {
+        "name": "KINH BAC CITY DEVELOPMENT SHAREHOLDING CORPORATION",
+        "url": "http://stock.vietnammarkets.com/others/KBC/",
+        "ticker_symbol": "KBC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 1000000000000,
+        "crawled_at": "2018-11-07 23:33:52.599962"
+    },
+    {
+        "name": "KINH DO CORPORATION",
+        "url": "http://stock.vietnammarkets.com/food-processing/KDC/",
+        "ticker_symbol": "KDC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 299999800000,
+        "crawled_at": "2018-11-07 23:33:52.604827"
+    },
+    {
+        "name": "HA TIEN 1 CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HT1/",
+        "ticker_symbol": "HT1",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 870000000000,
+        "crawled_at": "2018-11-07 23:33:52.704305"
+    },
+    {
+        "name": "HA TIEN TRANSPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/HTV/",
+        "ticker_symbol": "HTV",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 48000000000,
+        "crawled_at": "2018-11-07 23:33:52.708525"
+    },
+    {
+        "name": "INTERFOOD SHAREHOLDING CO.",
+        "url": "http://stock.vietnammarkets.com/food-processing/IFS/",
+        "ticker_symbol": "IFS",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 242841600000,
+        "crawled_at": "2018-11-07 23:33:52.752849"
+    },
+    {
+        "name": "GENERAL MATERIALS BIOCHEMISTRY FERTILIZER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HSI/",
+        "ticker_symbol": "HSI",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:52.924282"
+    },
+    {
+        "name": "INVESTMENT COMMERCE FISHERIES CORPORATION",
+        "url": "http://stock.vietnammarkets.com/food-processing/ICF/",
+        "ticker_symbol": "ICF",
+        "business": "Food processing",
+        "listing_bourse": "HASTC",
+        "revenue": 118000000000,
+        "crawled_at": "2018-11-07 23:33:52.927982"
+    },
+    {
+        "name": "HOAPHAT TEXTBOOK PRINTING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/communication/HTP/",
+        "ticker_symbol": "HTP",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 12600000000,
+        "crawled_at": "2018-11-07 23:33:52.979621"
+    },
+    {
+        "name": "HAI PHONG SECURITIES JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/financial-services/HPC/",
+        "ticker_symbol": "HPC",
+        "business": "Financial services",
+        "listing_bourse": "HASTC",
+        "revenue": 112817800000,
+        "crawled_at": "2018-11-07 23:33:53.019255"
+    },
+    {
+        "name": "HOA BINH RUBBER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/HRC/",
+        "ticker_symbol": "HRC",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 172609760000,
+        "crawled_at": "2018-11-07 23:33:53.227059"
+    },
+    {
+        "name": "HACINCO JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/tourism-and-entertainment/HSC/",
+        "ticker_symbol": "HSC",
+        "business": "Tourism and entertainment",
+        "listing_bourse": "HASTC",
+        "revenue": 5800000000,
+        "crawled_at": "2018-11-07 23:33:53.231490"
+    },
+    {
+        "name": "HOA PHAT GROUP",
+        "url": "http://stock.vietnammarkets.com/others/HPG/",
+        "ticker_symbol": "HPG",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 1320000000000,
+        "crawled_at": "2018-11-07 23:33:53.240940"
+    },
+    {
+        "name": "HOA PHAT  CONSTRUCTION STONE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/HPS/",
+        "ticker_symbol": "HPS",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 15652500000,
+        "crawled_at": "2018-11-07 23:33:53.308026"
+    },
+    {
+        "name": "NAM MU HYDROPOWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/electricity/HJS/",
+        "ticker_symbol": "HJS",
+        "business": "Electricity",
+        "listing_bourse": "HASTC",
+        "revenue": 60000000000,
+        "crawled_at": "2018-11-07 23:33:53.312176"
+    },
+    {
+        "name": "HOCHIMINH CITY METAL CORPORATION",
+        "url": "http://stock.vietnammarkets.com/industrial-metals/HMC/",
+        "ticker_symbol": "HMC",
+        "business": "Industrial metals",
+        "listing_bourse": "HOSE",
+        "revenue": 158000000000,
+        "crawled_at": "2018-11-07 23:33:53.414955"
+    },
+    {
+        "name": "HA LONG NO. 1 VIGLACERA JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/HLY/",
+        "ticker_symbol": "HLY",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 5000000000,
+        "crawled_at": "2018-11-07 23:33:53.432387"
+    },
+    {
+        "name": "HANOIMILK JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/HNM/",
+        "ticker_symbol": "HNM",
+        "business": "Food processing",
+        "listing_bourse": "HASTC",
+        "revenue": 70495000000,
+        "crawled_at": "2018-11-07 23:33:53.464400"
+    },
+    {
+        "name": "HAI HA CONFECTIONERY JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HHC/",
+        "ticker_symbol": "HHC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 54750000000,
+        "crawled_at": "2018-11-07 23:33:53.505782"
+    },
+    {
+        "name": "HIGHER EDUCATIONAL AND VOCATIONAL BOOK JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HEV/",
+        "ticker_symbol": "HEV",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 10000000000,
+        "crawled_at": "2018-11-07 23:33:53.513797"
+    },
+    {
+        "name": "HOA CAM CONCRETE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HCC/",
+        "ticker_symbol": "HCC",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 16228020000,
+        "crawled_at": "2018-11-07 23:33:53.529532"
+    },
+    {
+        "name": "BINH DUONG PP PACK MAKING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/general-industries/HBD/",
+        "ticker_symbol": "HBD",
+        "business": "General industries",
+        "listing_bourse": "HOSE",
+        "revenue": 15350000000,
+        "crawled_at": "2018-11-07 23:33:53.538368"
+    },
+    {
+        "name": "HAIPHONG CEMENT TRANSPORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/HCT/",
+        "ticker_symbol": "HCT",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 10415580000,
+        "crawled_at": "2018-11-07 23:33:53.725775"
+    },
+    {
+        "name": "HANG XANH MOTORS SERVICE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/automobile-and-parts/HAX/",
+        "ticker_symbol": "HAX",
+        "business": "Automobile and parts",
+        "listing_bourse": "HOSE",
+        "revenue": 16257300000,
+        "crawled_at": "2018-11-07 23:33:53.730179"
+    },
+    {
+        "name": "HANOI POST CONSTRUCTION AND INSTALLATION CO.",
+        "url": "http://stock.vietnammarkets.com/construction-materials/HAS/",
+        "ticker_symbol": "HAS",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 24967300000,
+        "crawled_at": "2018-11-07 23:33:53.911945"
+    },
+    {
+        "name": "HOA BINH CONSTRUCTION AND REAL ESTATE CORPORATION",
+        "url": "http://stock.vietnammarkets.com/construction-materials/HBC/",
+        "ticker_symbol": "HBC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 56399900000,
+        "crawled_at": "2018-11-07 23:33:53.994942"
+    },
+    {
+        "name": "HAI PHONG PAPER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/paper-and-wood-products/HAP/",
+        "ticker_symbol": "HAP",
+        "business": "Paper and wood products",
+        "listing_bourse": "HOSE",
+        "revenue": 60002510000,
+        "crawled_at": "2018-11-07 23:33:54.029458"
+    },
+    {
+        "name": "HAI AGROCHEM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/HAI/",
+        "ticker_symbol": "HAI",
+        "business": "Chemicals",
+        "listing_bourse": "HASTC",
+        "revenue": 114000000000,
+        "crawled_at": "2018-11-07 23:33:54.039460"
+    },
+    {
+        "name": "THUAN AN WOOD PROCESSING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/GTA/",
+        "ticker_symbol": "GTA",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 84077500000,
+        "crawled_at": "2018-11-07 23:33:54.108147"
+    },
+    {
+        "name": "GENERAL FORWARDING AND AGENCY CORP.",
+        "url": "http://stock.vietnammarkets.com/others/GMD/",
+        "ticker_symbol": "GMD",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 455000000000,
+        "crawled_at": "2018-11-07 23:33:54.117886"
+    },
+    {
+        "name": "THE CORPORATION FOR FINANCING AND PROMOTING TECHNOLOGY",
+        "url": "http://stock.vietnammarkets.com/distribution/FPT/",
+        "ticker_symbol": "FPT",
+        "business": "Distribution",
+        "listing_bourse": "HOSE",
+        "revenue": 912153440000,
+        "crawled_at": "2018-11-07 23:33:54.215513"
+    },
+    {
+        "name": "SAIGON GARMENT MANUFACTURING TRADE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/personal-equipment/GMC/",
+        "ticker_symbol": "GMC",
+        "business": "Personal equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 22750000000,
+        "crawled_at": "2018-11-07 23:33:54.266154"
+    },
+    {
+        "name": "BINH THANH TRADING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/personal-equipment/GIL/",
+        "ticker_symbol": "GIL",
+        "business": "Personal equipment",
+        "listing_bourse": "HOSE",
+        "revenue": 45550000000,
+        "crawled_at": "2018-11-07 23:33:54.275865"
+    },
+    {
+        "name": "FULL POWER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/FPC/",
+        "ticker_symbol": "FPC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:54.301194"
+    },
+    {
+        "name": "HAI AU PAPER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/paper-and-wood-products/GHA/",
+        "ticker_symbol": "GHA",
+        "business": "Paper and wood products",
+        "listing_bourse": "HASTC",
+        "revenue": 12894800000,
+        "crawled_at": "2018-11-07 23:33:54.490815"
+    },
+    {
+        "name": "SAO TA FOODS JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/FMC/",
+        "ticker_symbol": "FMC",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 69000000000,
+        "crawled_at": "2018-11-07 23:33:54.513972"
+    },
+    {
+        "name": "DANANG RUBBER JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/DRC/",
+        "ticker_symbol": "DRC",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 92475000000,
+        "crawled_at": "2018-11-07 23:33:54.556882"
+    },
+    {
+        "name": "EDUCATIONAL BOOK JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/communication/EBS/",
+        "ticker_symbol": "EBS",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 25548710000,
+        "crawled_at": "2018-11-07 23:33:54.585940"
+    },
+    {
+        "name": "DOAN XA PORT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/transportation/DXP/",
+        "ticker_symbol": "DXP",
+        "business": "Transportation",
+        "listing_bourse": "HOSE",
+        "revenue": 35000000000,
+        "crawled_at": "2018-11-07 23:33:54.590517"
+    },
+    {
+        "name": "VIGLACERA DONG TRIEU JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/DTC/",
+        "ticker_symbol": "DTC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 5000000000,
+        "crawled_at": "2018-11-07 23:33:54.730869"
+    },
+    {
+        "name": "PETROVIETNAM FERTILIZER AND CHEMICALS COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/DPM/",
+        "ticker_symbol": "DPM",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 3800000000000,
+        "crawled_at": "2018-11-07 23:33:54.765846"
+    },
+    {
+        "name": "DO THANH TECHNOLOGY CORPORATION",
+        "url": "http://stock.vietnammarkets.com/chemicals/DTT/",
+        "ticker_symbol": "DTT",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:54.793632"
+    },
+    {
+        "name": "DA NANG PLASTIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/chemicals/DPC/",
+        "ticker_symbol": "DPC",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 32000000000,
+        "crawled_at": "2018-11-07 23:33:54.798321"
+    },
+    {
+        "name": "NAM DINH EDUCATIONAL BOOK AND EQUIPMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/DST/",
+        "ticker_symbol": "DST",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 10000000000,
+        "crawled_at": "2018-11-07 23:33:54.854871"
+    },
+    {
+        "name": "DONG NAI PLASTIC CONSTRUCTION JSC",
+        "url": "http://stock.vietnammarkets.com/chemicals/DNP/",
+        "ticker_symbol": "DNP",
+        "business": "Chemicals",
+        "listing_bourse": "HOSE",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:54.859789"
+    },
+    {
+        "name": "DIEN HONG PRINTING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/communication/DHI/",
+        "ticker_symbol": "DHI",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 13831800000,
+        "crawled_at": "2018-11-07 23:33:55.020823"
+    },
+    {
+        "name": "Dong Phu Rubber Joint Stock Company",
+        "url": "http://stock.vietnammarkets.com/others/DPR/",
+        "ticker_symbol": "DPR",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 400000000000,
+        "crawled_at": "2018-11-07 23:33:55.055790"
+    },
+    {
+        "name": "DOMESCO MEDICAL IMPORT EXPORT JSC",
+        "url": "http://stock.vietnammarkets.com/pharmacy-and-biotech/DMC/",
+        "ticker_symbol": "DMC",
+        "business": "Pharmacy and biotech",
+        "listing_bourse": "HOSE",
+        "revenue": 137700000000,
+        "crawled_at": "2018-11-07 23:33:55.166179"
+    },
+    {
+        "name": "DIC INVESTMENT AND TRADING JSC",
+        "url": "http://stock.vietnammarkets.com/construction-materials/DIC/",
+        "ticker_symbol": "DIC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 80000000000,
+        "crawled_at": "2018-11-07 23:33:55.196353"
+    },
+    {
+        "name": "HAU GIANG PHARMACEUTICAL JSC",
+        "url": "http://stock.vietnammarkets.com/pharmacy-and-biotech/DHG/",
+        "ticker_symbol": "DHG",
+        "business": "Pharmacy and biotech",
+        "listing_bourse": "HOSE",
+        "revenue": 100000000000,
+        "crawled_at": "2018-11-07 23:33:55.233047"
+    },
+    {
+        "name": "DESCON CONSTRUCTION CORPORATION",
+        "url": "http://stock.vietnammarkets.com/others/DCC/",
+        "ticker_symbol": "DCC",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 103000000000,
+        "crawled_at": "2018-11-07 23:33:55.291140"
+    },
+    {
+        "name": "EDUCATIONAL BOOK JOINT STOCK COMPANY IN DA NANG CITY",
+        "url": "http://stock.vietnammarkets.com/communication/DAE/",
+        "ticker_symbol": "DAE",
+        "business": "Communication",
+        "listing_bourse": "HASTC",
+        "revenue": 6500000000,
+        "crawled_at": "2018-11-07 23:33:55.301342"
+    },
+    {
+        "name": "DONG NAI ROOFSHEET & CONSTRUCTION MATERIAL JSC",
+        "url": "http://stock.vietnammarkets.com/construction-materials/DCT/",
+        "ticker_symbol": "DCT",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 240194692000,
+        "crawled_at": "2018-11-07 23:33:55.317984"
+    },
+    {
+        "name": "DAI CHAU JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/DCS/",
+        "ticker_symbol": "DCS",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:55.390702"
+    },
+    {
+        "name": "UNDERGROUND WORKS CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CTN/",
+        "ticker_symbol": "CTN",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 48850000000,
+        "crawled_at": "2018-11-07 23:33:55.510660"
+    },
+    {
+        "name": "MATERIALS - PETROLIUM JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/oil-and-gas-production/COM/",
+        "ticker_symbol": "COM",
+        "business": "Oil and gas production",
+        "listing_bourse": "HOSE",
+        "revenue": 80000000000,
+        "crawled_at": "2018-11-07 23:33:55.579660"
+    },
+    {
+        "name": "CONSTRUCTION AND MECHANICAL JOINT STOCK COMPANY No 1.",
+        "url": "http://stock.vietnammarkets.com/mechanical-engineering/CMC/",
+        "ticker_symbol": "CMC",
+        "business": "Mechanical engineering",
+        "listing_bourse": "HASTC",
+        "revenue": 15200000000,
+        "crawled_at": "2018-11-07 23:33:55.584261"
+    },
+    {
+        "name": "DONG ANH CERAMIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/DAC/",
+        "ticker_symbol": "DAC",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 7500000000,
+        "crawled_at": "2018-11-07 23:33:55.626180"
+    },
+    {
+        "name": "CHANG YIH CERAMIC JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CYC/",
+        "ticker_symbol": "CYC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 90478550000,
+        "crawled_at": "2018-11-07 23:33:55.634239"
+    },
+    {
+        "name": "CAT LOI JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CLC/",
+        "ticker_symbol": "CLC",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 100800000000,
+        "crawled_at": "2018-11-07 23:33:55.653884"
+    },
+    {
+        "name": "CENTRAL AREA ELECTRICAL MECHANICAL JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mechanical-engineering/CJC/",
+        "ticker_symbol": "CJC",
+        "business": "Mechanical engineering",
+        "listing_bourse": "HASTC",
+        "revenue": 20000000000,
+        "crawled_at": "2018-11-07 23:33:55.754162"
+    },
+    {
+        "name": "HAI DUONG PUMP MANUFACTURING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mechanical-engineering/CTB/",
+        "ticker_symbol": "CTB",
+        "business": "Mechanical engineering",
+        "listing_bourse": "HASTC",
+        "revenue": 17143300000,
+        "crawled_at": "2018-11-07 23:33:55.861864"
+    },
+    {
+        "name": "BAOVIET SECURITIES COMPANY",
+        "url": "http://stock.vietnammarkets.com/financial-services/BVS/",
+        "ticker_symbol": "BVS",
+        "business": "Financial services",
+        "listing_bourse": "HASTC",
+        "revenue": 150000000000,
+        "crawled_at": "2018-11-07 23:33:55.886673"
+    },
+    {
+        "name": "ENGINEERING CONSTRUCTION JOINT STOCK COMPANY NO. 492",
+        "url": "http://stock.vietnammarkets.com/others/C92/",
+        "ticker_symbol": "C92",
+        "business": "Others",
+        "listing_bourse": "HOSE",
+        "revenue": 12000000000,
+        "crawled_at": "2018-11-07 23:33:55.895184"
+    },
+    {
+        "name": "BUT SON CEMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/BTS/",
+        "ticker_symbol": "BTS",
+        "business": "Construction materials",
+        "listing_bourse": "HASTC",
+        "revenue": 900000000000,
+        "crawled_at": "2018-11-07 23:33:55.899158"
+    },
+    {
+        "name": "HA LONG CANNED FOOD JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/food-processing/CAN/",
+        "ticker_symbol": "CAN",
+        "business": "Food processing",
+        "listing_bourse": "HOSE",
+        "revenue": 50000000000,
+        "crawled_at": "2018-11-07 23:33:56.142890"
+    },
+    {
+        "name": "620-CHAU THOI CONCRETE JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/BT6/",
+        "ticker_symbol": "BT6",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 109978500000,
+        "crawled_at": "2018-11-07 23:33:56.151638"
+    },
+    {
+        "name": "HO CHI MINH CITY INFRASTRUCTURE INVESTMENT JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/CII/",
+        "ticker_symbol": "CII",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 501000000000,
+        "crawled_at": "2018-11-07 23:33:56.155444"
+    },
+    {
+        "name": "HANOI TRANSFORMER & ELECTRIC MATERIALS MANUFACTURING JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/others/BTH/",
+        "ticker_symbol": "BTH",
+        "business": "Others",
+        "listing_bourse": "HASTC",
+        "revenue": 30000000000,
+        "crawled_at": "2018-11-07 23:33:56.326873"
+    },
+    {
+        "name": "BINH TRIEU MACHINERY AND CONSTRUCTION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/mechanical-engineering/BTC/",
+        "ticker_symbol": "BTC",
+        "business": "Mechanical engineering",
+        "listing_bourse": "HOSE",
+        "revenue": 13512858342,
+        "crawled_at": "2018-11-07 23:33:56.402862"
+    },
+    {
+        "name": "HOA AN STONE EXPLOITATION JOINT STOCK COMPANY",
+        "url": "http://stock.vietnammarkets.com/construction-materials/DHA/",
+        "ticker_symbol": "DHA",
+        "business": "Construction materials",
+        "listing_bourse": "HOSE",
+        "revenue": 67065000000,
+        "crawled_at": "2018-11-07 23:35:16.319638"
+    }
+]

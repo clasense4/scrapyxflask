@@ -1,0 +1,8 @@
+databases:
+    pgsql:
+        driver: pgsql
+        host: localhost
+        database: scrapy_x_flask
+        user: postgres
+        password: ''
+        prefix: ''

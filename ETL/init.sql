@@ -1,0 +1,1 @@
+CREATE DATABASE scrapy_x_flask;
