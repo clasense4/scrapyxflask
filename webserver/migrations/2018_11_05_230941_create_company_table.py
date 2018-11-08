@@ -19,7 +19,7 @@ class CreateCompanyTable(Migration):
             table.text('website').nullable()
             table.text('description').nullable()
             table.text('address').nullable()
-            table.double('revenue').nullable()
+            table.big_integer('revenue').nullable()
             table.json('phone').nullable()
             table.json('auditing_company').nullable()
             table.json('financial_summary').nullable()
