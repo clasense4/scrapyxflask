@@ -1,5 +1,5 @@
 databases:
-    pgsql:
+    development:
         driver: pgsql
         host: localhost
         database: scrapy_x_flask
