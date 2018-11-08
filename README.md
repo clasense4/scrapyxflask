@@ -65,4 +65,17 @@ ifconfig | grep inet | awk '{print $2}' | head -n 1
 
 ## Test
 
+```
+source env/bin/activate && cd webserver && sh test.sh
+
+.....
+Name      Stmts   Miss  Cover
+-----------------------------
+main.py      33      1    97%
+----------------------------------------------------------------------
+Ran 5 tests in 0.185s
+
+OK
+```
+
 ## Todo
