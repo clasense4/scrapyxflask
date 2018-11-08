@@ -13,19 +13,20 @@ db = Orator(app)
 
 @app.route('/company', methods=['GET'])
 def company():
+    print(request.args.get('industry'))
     try:
         if request.args.get('company_name'):
-            search_string = request.args.get('company_name')
+            search_string = replace_all(request.args.get('company_name'))
             companies = db.table('company').where(
                 'name','ilike',"%" + search_string + "%"
             ).get().to_json()
         elif request.args.get('industry'):
-            search_string = request.args.get('industry')
+            search_string = replace_all(request.args.get('industry'))
             companies = db.table('company').where(
                 'industry','ilike',"%" + search_string + "%"
             ).get().to_json()
         elif request.args.get('revenue_gte'):
-            search_string = request.args.get('revenue_gte')
+            search_string = replace_all(request.args.get('revenue_gte'))
             companies = db.table('company').where(
                 'revenue', '>=', search_string
             ).get().to_json()
@@ -42,6 +43,12 @@ def company():
             "status_code": 400,
             "message": "bad request"
         }
+
+def replace_all(text):
+    forbidden = ['"','\'']
+    for i in forbidden:
+        text = text.replace(i, "")
+    return text
 
 if __name__ == "__main__":
     app.run(debug=True)
