@@ -78,4 +78,24 @@ Ran 5 tests in 0.185s
 OK
 ```
 
-## Todo
+## FAQ
+
+### 1. Which database engine you choose and why?
+
+> I choose postgresql. Postgresql has rich feature, especially the powerfull json column.
+> I can use that to store json and doing good query, in SQL language.
+> Also postgre has extenstion that is really powerful, such as timescaledb, pipelinedb, postgis, citus, etc.
+> Not only that, postgresql has good search support, that is trigram index. Unfortunately I'm not using that in this projects.
+
+### 2. Which web framework you choose and why?
+
+> Flask. It is easy and simple, but yes need to create our own skeleton app.
+> I think to use great python 3 async supported framework, but I'm not really familiar with that. For example : Sanic, aiohttp, etc.
+
+### 3. Briefly describe the architecture of your application?
+
+> I use scrapy to crawl the content, and it has good support, for example, item pipeline.
+> With single crawl, I can create multiple outputs. I have been using scrapy since 2010, and it is proven.
+> I use orator orm, it is similar with laravel's eloquent
+> I use nosetest with code coverage too.
+
