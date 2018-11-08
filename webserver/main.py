@@ -13,7 +13,6 @@ db = Orator(app)
 
 @app.route('/company', methods=['GET'])
 def company():
-    print(request.args.get('industry'))
     try:
         if request.args.get('company_name'):
             search_string = replace_all(request.args.get('company_name'))
@@ -39,10 +38,11 @@ def company():
             "data": json.loads(companies)
         }
     except:
-        return {
+        content = {
             "status_code": 400,
             "message": "bad request"
         }
+        return content, 400
 
 def replace_all(text):
     forbidden = ['"','\'']
