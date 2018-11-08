@@ -11,7 +11,7 @@ import os
 
 class CompanyProfilePipeline(object):
     def open_spider(self, spider):
-        self.path = os.getcwd() + '/../../../webserver/'
+        self.path = os.getcwd() + '/../webserver/'
         self.name = 'company_profile.json'
         self.jsons = []
         try:
@@ -33,7 +33,7 @@ class CompanyProfilePipeline(object):
 
 class CompanyIndexPipeline(object):
     def open_spider(self, spider):
-        self.path = os.getcwd() + '/../../../webserver/'
+        self.path = os.getcwd() + '/../webserver/'
         self.name = 'company_index.json'
         self.jsons = []
         try:
