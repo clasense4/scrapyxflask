@@ -56,7 +56,7 @@ python importer.py
 
 # Start flask app
 cd /home/scrapyxflask/webserver
-export FLASK_APP=company.py
+export FLASK_APP=main.py
 flask run -h 0.0.0.0
 
 # Get your public ip
