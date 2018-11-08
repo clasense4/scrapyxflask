@@ -17,7 +17,7 @@ with open('company_profile.json', encoding='utf-8-sig') as json_file:
             'url': data['url'],
             'ticker_symbol': data['ticker_symbol'],
             'country': data['country'],
-            'business': data['business'],
+            'industry': data['business'],
             'listing_bourse': data['listing_bourse'],
             'email': data['email'],
             'website': data['website'],

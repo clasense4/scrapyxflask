@@ -13,7 +13,7 @@ class CreateCompanyTable(Migration):
             table.text('url').nullable()
             table.text('ticker_symbol').nullable()
             table.text('country').nullable()
-            table.text('business').nullable()
+            table.text('industry').nullable()
             table.text('listing_bourse').nullable()
             table.text('email').nullable()
             table.text('website').nullable()
