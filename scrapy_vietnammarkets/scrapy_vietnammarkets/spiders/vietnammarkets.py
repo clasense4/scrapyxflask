@@ -18,7 +18,7 @@ class VietnammarketsSpider(scrapy.Spider):
         # print(tr.extract())
         for tds in tr:
             td = tds.xpath('td')
-        # for i in range(0, 5) :
+        # for i in range(0, 15) :
         #     td = tr[i].xpath('td')
 
             company_url = td.xpath('a/@href').extract()[0]
@@ -41,7 +41,12 @@ class VietnammarketsSpider(scrapy.Spider):
 
         # Extract Company
         company_profile = remove_tags(td[0].extract()).split('\n\t\t\t\t\t\t')
-        self.jsons[position]["address"] = ', '.join(self.cleanStrings(company_profile[2].split(',')))
+        addresses = company_profile[2].split(',')
+        if len(addresses) > 1:
+            self.jsons[position]["address"] = ', '.join(self.cleanStrings(addresses))
+        else:
+            self.jsons[position]["address"] = None
+
         # Phone number
         if self.hasNumbers(company_profile[3]) and self.hasNumbers(company_profile[4]):
             self.jsons[position]["phone"] = [ company_profile[3].strip(), company_profile[4].strip() ]
@@ -51,12 +56,11 @@ class VietnammarketsSpider(scrapy.Spider):
             self.jsons[position]["phone"] = company_profile[4].strip()
         else:
             self.jsons[position]["phone"] = ''
-        self.jsons[position]["email"] = company_profile[5].strip()
-        self.jsons[position]["website"] = company_profile[6].strip()
+        self.jsons[position]["email"] = company_profile[5].strip() if (len(company_profile[5].strip()) > 0) else None
+        self.jsons[position]["website"] = company_profile[6].strip() if (len(company_profile[6].strip()) > 0) else None
 
         business_summary = remove_tags(td[2].extract()).split('\n\t\t\t\t\t\t')
-        self.jsons[position]["description"] = business_summary[2]
-        self.jsons[position]["auditing_company"] = business_summary[4]
+        self.jsons[position]["description"] = business_summary[2] if business_summary[2] != '' else None
 
         auditing_company = td[2].extract().split('<br>')
         auditing_company = self.cleanStrings(auditing_company)
@@ -64,7 +68,7 @@ class VietnammarketsSpider(scrapy.Spider):
         del auditing_company[0]
         del auditing_company[-1]
 
-        self.jsons[position]["auditing_company"] = ''
+        self.jsons[position]["auditing_company"] = []
         self.jsons[position]["business_registration"] = {}
 
         auditing_company_index = auditing_company.index('Auditing Company:')
@@ -73,8 +77,8 @@ class VietnammarketsSpider(scrapy.Spider):
         for i in range(len(auditing_company)):
             if auditing_company[i]:
                 if i > auditing_company_index and i < business_registration_index:
-                    # self.jsons[position]["auditing_company"].append(auditing_company[i])
-                    self.jsons[position]["auditing_company"] += " " + auditing_company[i]
+                    self.jsons[position]["auditing_company"].append(auditing_company[i])
+                    # self.jsons[position]["auditing_company"] += " " + auditing_company[i]
                 elif i > business_registration_index:
                     if 'Established' in auditing_company[i]:
                         self.jsons[position]['business_registration']['established_license'] = auditing_company[i].split(':')[1].strip()
